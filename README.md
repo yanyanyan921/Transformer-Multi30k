@@ -1,5 +1,4 @@
 # Transformer-Multi30k
-markdown
 # Transformer 机器翻译项目
 
 基于 PyTorch 实现的完整 Transformer 模型，用于机器翻译任务，包含消融实验和超参数分析。
