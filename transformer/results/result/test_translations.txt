@@ -1,0 +1,403 @@
+测试集前100条翻译结果
+================================================================================
+
+样本 1:
+英语原文: a man in an orange hat starring at something .
+参考德语: ein mann mit einem orangefarbenen hut , der etwas anstarrt .
+翻译德语: ein mann mit orangefarbenen hut starrt auf etwas an etwas .
+样本 2:
+英语原文: a boston terrier is running on lush green grass in front of a white fence .
+参考德语: ein boston terrier läuft über saftig-grünes gras vor einem weißen zaun .
+翻译德语: ein <unk> , der auf einem grünen gras rennt auf einem weißen zaun im gras .
+样本 3:
+英语原文: a girl in karate uniform breaking a stick with a front kick .
+参考德语: ein mädchen in einem karateanzug bricht ein brett mit einem tritt .
+翻译德语: ein mädchen in einem <unk> mit einem stock , das vor einem <unk> macht .
+样本 4:
+英语原文: five people wearing winter jackets and helmets stand in the snow , with snowmobiles in the background .
+参考德语: fünf leute in winterjacken und mit helmen stehen im schnee mit schneemobilen im hintergrund .
+翻译德语: fünf personen in jacken und helmen stehen im schnee im schnee , im hintergrund sind im hintergrund .
+样本 5:
+英语原文: people are fixing the roof of a house .
+参考德语: leute reparieren das dach eines hauses .
+翻译德语: leute reparieren den dach eines hauses .
+样本 6:
+英语原文: a man in light colored clothing photographs a group of men wearing dark suits and hats standing around a woman dressed in a strapless gown .
+参考德语: ein hell gekleideter mann fotografiert eine gruppe von männern in dunklen anzügen und mit hüten , die um eine frau in einem trägerlosen kleid herum stehen .
+翻译德语: ein mann in kostümen tanzt in einem dunklen kleidern und eine frau in einem dunklen kleidern und eine frau stehen herum .
+样本 7:
+英语原文: a group of people standing in front of an igloo .
+参考德语: eine gruppe von menschen steht vor einem iglu .
+翻译德语: eine gruppe von menschen steht vor einem <unk> .
+样本 8:
+英语原文: a boy in a red uniform is attempting to avoid getting out at home plate , while the catcher in the blue uniform is attempting to catch him .
+参考德语: ein junge in einem roten trikot versucht , die home base zu erreichen , während der catcher im blauen trikot versucht , ihn zu fangen .
+翻译德语: ein junge in einem roten trikot versucht , um einen <unk> zu fangen , während er in der ball zu fangen .
+样本 9:
+英语原文: a guy works on a building .
+参考德语: ein typ arbeitet an einem gebäude .
+翻译德语: ein mann arbeitet an einem gebäude auf einem gebäude .
+样本 10:
+英语原文: a man in a vest is sitting in a chair and holding magazines .
+参考德语: ein mann in einer weste sitzt auf einem stuhl und hält magazine .
+翻译德语: ein mann in einer weste sitzt in einem stuhl und hält ein stuhl und hält an .
+样本 11:
+英语原文: a mother and her young song enjoying a beautiful day outside .
+参考德语: eine mutter und ihr kleiner sohn genießen einen schönen tag im freien .
+翻译德语: eine mutter und ein kleiner junge genießt ein kleines tag im freien .
+样本 12:
+英语原文: men playing volleyball , with one player missing the ball but hands still in the air .
+参考德语: männer , die volleyball spielen , wobei ein mann den ball nicht trifft , während seine hände immer noch in der luft sind .
+翻译德语: ein <unk> , der ein spieler in einem ball , der hände in der luft , wird von der luft , wird .
+样本 13:
+英语原文: a woman holding a bowl of food in a kitchen .
+参考德语: eine frau , die in einer küche eine schale mit essen hält .
+翻译德语: eine frau hält eine schüssel in einer küche vor einer küche .
+样本 14:
+英语原文: man sitting using tool at a table in his home .
+参考德语: ein sitzender mann , der an einem tisch in seinem haus mit einem werkzeug arbeitet .
+翻译德语: ein mann mit einem <unk> auf seinem tisch .
+样本 15:
+英语原文: three people sit in a cave .
+参考德语: drei leute sitzen in einer höhle .
+翻译德语: drei personen sitzen in einer <unk> .
+样本 16:
+英语原文: a girl in a jean dress is walking along a raised balance beam .
+参考德语: ein mädchen in einem jeanskleid läuft über einen erhöhten schwebebalken .
+翻译德语: ein mädchen in einem kleid geht auf einem roller durch einen roller vorbei .
+样本 17:
+英语原文: a blond holding hands with a guy in the sand .
+参考德语: eine blondine hält mit einem mann im sand händchen .
+翻译德语: ein blondes mädchen hält einen mann mit dem sand im sand .
+样本 18:
+英语原文: a woman in a gray sweater and black baseball cap is standing in line at a shop .
+参考德语: eine frau in einem grauen pulli und mit einer schwarzen baseballmütze steht in einem geschäft in der schlange .
+翻译德语: eine frau in einem grauen pullover und mit einer weißen mütze steht in einer reihe .
+样本 19:
+英语原文: the person in the striped shirt is mountain climbing .
+参考德语: die person im gestreiften shirt klettert auf einen berg .
+翻译德语: die person in einem gestreiften hemd klettert auf den berg .
+样本 20:
+英语原文: two men pretend to be statutes while women look on .
+参考德语: zwei männer tun so als seien sie statuen , während frauen ihnen zusehen .
+翻译德语: zwei männer , die <unk> , während zwei frauen auf ihnen schauen zu sehen .
+样本 21:
+英语原文: people standing outside of a building .
+参考德语: leute , die vor einem gebäude stehen .
+翻译德语: leute stehen vor einem gebäude .
+样本 22:
+英语原文: a teenager plays her trumpet on the field at a game .
+参考德语: eine teenagerin spielt bei einem spiel trompete auf dem feld .
+翻译德语: ein teenager spielt auf dem feld ein spiel auf dem feld .
+样本 23:
+英语原文: a woman does a somersault on a trampoline on the beach .
+参考德语: eine frau macht einen salto auf einem trampolin am strand .
+翻译德语: eine frau macht einen salto auf einem trampolin auf dem strand .
+样本 24:
+英语原文: a man is standing by a group of video games in a bar .
+参考德语: ein mann steht bei einigen spielautomaten in einer bar .
+翻译德语: ein mann steht an einer gruppe von einer <unk> <unk> .
+样本 25:
+英语原文: a woman uses a drill while another man takes her picture .
+参考德语: eine frau verwendet eine bohrmaschine während ein mann sie fotografiert .
+翻译德语: eine frau mit einer <unk> , während ein anderer mann ein foto macht .
+样本 26:
+英语原文: a woman in a pink sweater and an apron , cleaning a table with a sponge .
+参考德语: eine frau in einem pinken pulli und einer schürze putzt einen tisch mit einem schwamm .
+翻译德语: eine frau in einem rosa pullover und einer schürze putzt einen tisch mit einem <unk> .
+样本 27:
+英语原文: a man cutting branches of trees .
+参考德语: ein mann schneidet äste von bäumen .
+翻译德语: ein mann <unk> die <unk> von bäumen .
+样本 28:
+英语原文: group of asian boys wait for meat to cook over barbecue .
+参考德语: eine gruppe asiatischer jungen wartet am grill darauf , dass fleisch gar wird .
+翻译德语: eine asiatische jungen warten darauf vor , um zu machen .
+样本 29:
+英语原文: women , wearing traditional clothing , are reenacting native life .
+参考德语: frauen , die traditionelle kleidung tragen , spielen das leben einheimischer nach .
+翻译德语: frauen in traditioneller kleidung tragen <unk> <unk> .
+样本 30:
+英语原文: one man holds another man 's head down and prepares to punch him in the face .
+参考德语: ein mann drückt den kopf eines anderen mannes nach unten und will ihm ins gesicht schlagen .
+翻译德语: ein mann hält den kopf und hat den kopf im gesicht des <unk> zu schlagen .
+样本 31:
+英语原文: six people ride mountain bikes through a jungle environment .
+参考德语: sechs leute fahren mountainbikes durch eine dschungellandschaft .
+翻译德语: sechs personen fahren auf einer <unk> durch einen <unk> .
+样本 32:
+英语原文: 2 blond girls are sitting on a ledge in a crowded plaza .
+参考德语: 2 blonde mädchen sitzen auf einem absatz auf einem belebten platz .
+翻译德语: zwei mädchen sitzen auf einem <unk> auf einem belebten platz .
+样本 33:
+英语原文: a child is splashing in the water
+参考德语: ein kind planscht im wasser .
+翻译德语: ein kind planscht im wasser .
+样本 34:
+英语原文: three people sit at a picnic table outside of a building painted like a union jack .
+参考德语: drei leute sitzen an einem picknicktisch vor einem gebäude , das wie der union jack bemalt ist .
+翻译德语: drei personen sitzen an einem tisch mit einem tisch und einem gebäude mit <unk> <unk> .
+样本 35:
+英语原文: 3 boys are standing on a pier in their bathing suits .
+参考德语: 3 jungen stehen in ihren badehosen auf einem pier .
+翻译德语: drei jungen stehen auf einem kai in der nähe von ihren <unk> .
+样本 36:
+英语原文: an employee is handing a woman a bag while she is browsing through fish on ice at a street market .
+参考德语: ein angestellter reicht einer frau auf einem markt eine tüte , während sie auf eis gelegten fisch begutachtet .
+翻译德语: eine <unk> frau , die eine frau mit einer tasche trägt , während sie durch einen markt am markt wasser .
+样本 37:
+英语原文: a pretty woman plays a harpsichord .
+参考德语: eine schöne frau spielt auf einer harfe .
+翻译德语: eine <unk> spielt eine frau in einem <unk> .
+样本 38:
+英语原文: outside a building , a uniformed security guard looks at the camera from behind a fence .
+参考德语: vor einem gebäude sieht ein uniformierter sicherheitsbeamter hinter einem zaun in die kamera .
+翻译德语: ein gebäude , der in uniform in uniform schaut in die kamera hinter einem zaun .
+样本 39:
+英语原文: the young lady is looking at the pizza .
+参考德语: die junge dame sieht auf die pizza .
+翻译德语: eine junge dame schaut sich an die ferne .
+样本 40:
+英语原文: a shirtless man in shorts is fishing while standing on some rocks .
+参考德语: ein mann mit freiem oberkörper und shorts steht auf ein paar steinen und angelt .
+翻译德语: ein mann mit freiem oberkörper , während ein <unk> auf felsen steht .
+样本 41:
+英语原文: a girl wearing a life vest floats in water .
+参考德语: ein mädchen in einer rettungsweste treibt im wasser .
+翻译德语: ein mädchen in einer weste schwimmt in einem wasser .
+样本 42:
+英语原文: a man in uniform and a man in a blue shirt are standing in front of a truck .
+参考德语: ein mann in uniform und ein mann in einem blauen hemd stehen vor einem wagen .
+翻译德语: ein mann in einem blauen hemd und ein mann stehen vor einem weißen lkw vor einem lkw .
+样本 43:
+英语原文: people sit inside a train .
+参考德语: leute sitzen in einem zug .
+翻译德语: leute sitzen in einem zug .
+样本 44:
+英语原文: a kid swings with his feet up in the air in a forest .
+参考德语: ein junge schaukelt mit den füßen in der luft in einem wald .
+翻译德语: ein kind mit seinem kopf in seinem wald mit seinem wald .
+样本 45:
+英语原文: a man in a red shirt entering an establishment .
+参考德语: ein mann in einem roten hemd betritt ein etablissement .
+翻译德语: ein mann in einem roten hemd klettert ein <unk> .
+样本 46:
+英语原文: two men wearing swim trunks jump in the air at a moderately populated beach .
+参考德语: zwei männer in badehosen springen auf einem mäßig belebten strand in die luft .
+翻译德语: zwei männer in badehose springt in der luft auf den sand am strand .
+样本 47:
+英语原文: a toddler is cooking with another person .
+参考德语: ein kleines kind kocht mit einer anderen person .
+翻译德语: ein kleinkind kocht mit einer anderen person mit einer anderen person .
+样本 48:
+英语原文: a father - figure and two children outside their home doing yard work such as using a hoe on the grass and planting a tree .
+参考德语: eine vaterfigur und zwei kinder machen vor ihrem zuhause gartenarbeit wie den rasen mit einer gartenhacke zu bearbeiten und einen baum zu pflanzen .
+翻译德语: eine <unk> und zwei kinder , die im freien auf dem hof arbeiten , machen einen zaun , um einen baum zu schlagen .
+样本 49:
+英语原文: a man cooking food on the stove .
+参考德语: ein mann bereitet am herd essen zu .
+翻译德语: ein mann kocht sich auf dem sand .
+样本 50:
+英语原文: a man in jeans at the beach playing with a red ball .
+参考德语: ein mann in jeans spielt an einem strand mit einem roten ball .
+翻译德语: ein mann in jeans spielt am strand mit einem roten ball .
+样本 51:
+英语原文: people walking down sidewalk next to a line of stores .
+参考德语: leute gehen auf einem gehsteig neben einer reihe von geschäften .
+翻译德语: leute gehen neben einer reihe von leuten neben ihren markt .
+样本 52:
+英语原文: a wakeboarder performs a flip while being towed at high speed .
+参考德语: ein wakeboarder macht einen salto während er bei hoher geschwindigkeit an einem seil gezogen wird .
+翻译德语: ein <unk> macht einen salto , während ein <unk> von den wald wird .
+样本 53:
+英语原文: a large group of people fill a street .
+参考德语: eine große menschenmenge füllt eine straße .
+翻译德语: eine große gruppe von menschen sind auf einer straße .
+样本 54:
+英语原文: a man on a tag line going into the water .
+参考德语: ein mann an einem halteseil geht ins wasser .
+翻译德语: ein mann auf einer reihe geht in die reihe von der reihe .
+样本 55:
+英语原文: a woman in jeans walks by a bus with an ad depicting a woman peering over her sunglasses .
+参考德语: eine frau in jeans läuft vor einem bus vorbei , auf dem eine werbung eine frau zeigt , die über den rand ihrer sonnenbrille blickt .
+翻译德语: eine frau in jeans geht mit einer <unk> neben einer frau mit sonnenbrille , die eine frau mit sonnenbrille blickt .
+样本 56:
+英语原文: a man in a pink shirt is sitting in the grass and a ball is in the air .
+参考德语: ein mann in einem pinken hemd sitzt auf dem gras und ein ball ist in der luft .
+翻译德语: ein mann in einem rosa hemd sitzt im gras und hat den ball in der luft .
+样本 57:
+英语原文: a car parked at the beach .
+参考德语: ein am strand geparktes auto .
+翻译德语: ein auto ist am strand entlang .
+样本 58:
+英语原文: two men wearing black in a city
+参考德语: zwei männer in schwarz in einer stadt
+翻译德语: zwei männer in schwarz gekleidete männer in einer stadt . zwei stadt . zwei stadt . zwei stadt . zwei stadt .
+样本 59:
+英语原文: the man in the yellow pants is raising his arms .
+参考德语: der mann in der gelben hose hebt seine arme .
+翻译德语: der mann in gelben hosen hebt seine arme nach unten .
+样本 60:
+英语原文: two men wearing hats and using walking sticks are walking near a body of water during sundown .
+参考德语: zwei männer mit hüten und spazierstöcken schlendern neben einem gewässer bei sonnenuntergang .
+翻译德语: zwei männer mit hüten , die in der nähe eines <unk> gehen , gehen durch ein gewässer .
+样本 61:
+英语原文: a cheerleading team doing a routine on chairs .
+参考德语: ein cheerleaderteam macht eine übung auf stühlen .
+翻译德语: ein <unk> macht auf einer <unk> auf stühlen .
+样本 62:
+英语原文: a boy is playing checkers with an adult shown off - screen while a girl looks on .
+参考德语: ein junge spielt mit einem erwachsenen außerhalb des bildes dame während ein mädchen zusieht .
+翻译德语: ein junge spielt vor einem erwachsener , während ein mädchen von einem mädchen zuschaut .
+样本 63:
+英语原文: a crowd of people out for some fun in public park .
+参考德语: eine gruppe menschen , die sich in einem öffentlichen park amüsieren wollen .
+翻译德语: eine menschenmenge von menschen , einige sich im park im park .
+样本 64:
+英语原文: a man sits on a bench holding his dog and looking at the water .
+参考德语: ein mann sitzt auf einer bank während er seinen hund hält und aufs wasser blickt .
+翻译德语: ein mann sitzt auf einer bank und hält seine hand und schaut sich am wasser .
+样本 65:
+英语原文: a boy and his younger brother playing together at the playground .
+参考德语: ein junge und sein jüngerer bruder spielen gemeinsam auf einem spielplatz .
+翻译德语: ein junge und ein kleiner <unk> spielt zusammen auf dem spielplatz .
+样本 66:
+英语原文: a woman in blue looks in a black leather bag while sitting on a bench during a sunny afternoon while people and limousines passed behind her .
+参考德语: ein blau gekleidete frau sieht in eine schwarze ledertasche während sie an einem sonnigen nachmittag auf einer bank sitzt und menschen und autos hinter ihr vorbeiziehen .
+翻译德语: eine frau in einer schwarzen <unk> schaut in einer bank in einer bank und ein sonnigen tag hinter ihr <unk> .
+样本 67:
+英语原文: the brown dog is standing on the sandy beach .
+参考德语: der braune hund steht auf dem sandstrand .
+翻译德语: ein brauner hund steht am strand am strand .
+样本 68:
+英语原文: a woman is sitting with a basket of cloth , surrounded by cloth .
+参考德语: eine frau sitzt mit einem korb voller stoff , umgeben von stoff .
+翻译德语: eine frau sitzt mit einem korb mit einem korb von einem korb .
+样本 69:
+英语原文: a man is grilling out in his backyard .
+参考德语: ein mann grillt im freien in seinem hof .
+翻译德语: ein mann grillt in seinem hof aus seinem spielzeug .
+样本 70:
+英语原文: a woman sings in a club with a guitarist behind her .
+参考德语: eine frau singt in einem klub mit einem gitarristen hinter ihr .
+翻译德语: eine frau in einem hof mit einem spielzeug hinter ihr buch hinter ihr .
+样本 71:
+英语原文: guitar player performs at a nightclub red guitar .
+参考德语: gitarristin spielt in einem nachtklub auf einer roten gitarre .
+翻译德语: ein spieler in einem roten regen auf einem roten regen .
+样本 72:
+英语原文: a child sitting on a lawn chair looking up at the camera
+参考德语: ein kind sitzt auf einem gartenstuhl und sieht zur kamera auf
+翻译德语: ein kind sitzt auf einem stuhl auf einem stuhl und schaut auf die kamera hoch .
+样本 73:
+英语原文: two ladies and three men looking at the ocean .
+参考德语: zwei frauen und drei männer blicken auf den ozean .
+翻译德语: zwei frauen und drei männer schauen sich am meer an den meer .
+样本 74:
+英语原文: a female performer with a violin plays on a street while a woman with a blue guitar looks on .
+参考德语: eine musikantin mit einer violine spielt auf der straße während eine frau mit einer blauen gitarre zusieht .
+翻译德语: eine <unk> auf einer frau spielt gitarre und eine frau auf einer frau , während eine frau auf einer frau sitzt .
+样本 75:
+英语原文: a young girl swimming in a pool
+参考德语: ein junges mädchen schwimmt in einem pool
+翻译德语: ein mädchen schwimmt in einem schwimmbecken in einem schwimmbecken .
+样本 76:
+英语原文: several children are outdoors getting ready to play tug - of - war .
+参考德语: mehrere kinder sind im freien und bereiten sich auf tauziehen vor .
+翻译德语: mehrere kinder bereiten sich vor , die sich bereit , die sich von <unk> zu spielen .
+样本 77:
+英语原文: three teenagers in a subway playing around .
+参考德语: drei teenager in einer u-bahn albern herum .
+翻译德语: drei teenager in einer u-bahn spielen um die u-bahn herum .
+样本 78:
+英语原文: a brown dog walks in the grass with its tongue hanging out .
+参考德语: ein brauner hund läuft durchs gras und seine zunge hängt heraus .
+翻译德语: ein brauner hund geht mit zunge mit zunge durch die luft .
+样本 79:
+英语原文: people sitting in the grass outside a building , taking a break .
+参考德语: leute sitzen vor einem gebäude im gras und machen pause .
+翻译德语: leute sitzen im freien im freien und macht eine pause .
+样本 80:
+英语原文: shirtless guy staring off in the distance while three woman are walking past a crowd sitting outside a cafe .
+参考德语: mann ohne hemd starrt vor einem café in die ferne während drei frauen an einer menschenmenge vorbeigehen .
+翻译德语: ein mann mit freiem oberkörper und drei frau stehen in der ferne , während drei frau in einem café sitzen an einem café sitzen .
+样本 81:
+英语原文: two young boys putting fruit on the bike .
+参考德语: zwei jungen packen obst auf das fahrrad .
+翻译德语: zwei kleine jungen machen am fahrrad auf dem fahrrad .
+样本 82:
+英语原文: a man in a black t - shirt , cap and jeans is playing drums on an upside down yellow pail .
+参考德语: ein mann in einem schwarzen t-shirt spielt trommel auf einem umgedrehten gelben kübel .
+翻译德语: ein mann in einem schwarzen t-shirt und jeans spielt auf einem gelben oberteil auf dem kopf .
+样本 83:
+英语原文: a young female artists paints an image of a woman on a wall .
+参考德语: eine junge künstlerin malt ein bild einer frau auf eine wand .
+翻译德语: eine junge schläft auf einer wand eine frau auf einer wand .
+样本 84:
+英语原文: two female members of team usa performing a jump high - five surrounded by two other female members .
+参考德语: zwei spielerinnen der us-nationalmannschaft klatschen im sprung ab , umgeben von zwei weiteren spielerinnen .
+翻译德语: zwei <unk> <unk> <unk> , die hoch , die andere <unk> von zwei andere tragen , springen .
+样本 85:
+英语原文: a man stirring a pot of liquid in this kitchen .
+参考德语: ein mann rührt in einem topf in seiner küche .
+翻译德语: ein mann mit einer brille , der eine tasse in der küche lächelt .
+样本 86:
+英语原文: the boy is wakeboarding on the lake .
+参考德语: ein junge beim wakeboarden auf dem see .
+翻译德语: ein junge fährt auf dem see auf dem see .
+样本 87:
+英语原文: a man is working a hotdog stand .
+参考德语: ein mann arbeitet an einem hotdog-stand .
+翻译德语: ein mann arbeitet mit einem <unk> .
+样本 88:
+英语原文: a large group of people of various ages and genders sit outside together .
+参考德语: eine große gruppe von menschen unterschiedlichen alters und geschlechts sitzt gemeinsam im freien .
+翻译德语: eine große gruppe von menschen in <unk> und <unk> sitzen zusammen .
+样本 89:
+英语原文: a blond - haired woman is pouring drinks at a bar .
+参考德语: eine blonde frau schenkt an einer bar getränke ein .
+翻译德语: eine blonde frau gießt eine frau in einer bar mit einer bar .
+样本 90:
+英语原文: a small child wearing a blue and white t - shirt happily holding a yellow plastic alligator .
+参考德语: ein kleines kind in einem blau-weißen t-shirt hält glücklich einen gelben plastik-alligator .
+翻译德语: ein kleines kind in einem blauen t-shirt und weißen t-shirt hält einen gelben <unk> .
+样本 91:
+英语原文: a woman with pink hair dressed in black talks to a man .
+参考德语: eine schwarz gekleidete frau mit rosa haaren spricht mit einem mann .
+翻译德语: eine frau mit rosa haaren spricht in einem schwarzen mann mit einem mann .
+样本 92:
+英语原文: the man in a japanese cooking suit is preparing a meal for two people .
+参考德语: der mann im japanischen kochgewand bereitet ein essen für zwei personen zu .
+翻译德语: ein mann in einem <unk> bereitet sich vor zwei personen für zwei personen bereiten sich für zwei personen für zwei personen .
+样本 93:
+英语原文: a girl hops across the river , from rock to rock .
+参考德语: ein mädchen springt von fels zu fels über den bach .
+翻译德语: ein mädchen springt über den fluss aus einem felsen aus .
+样本 94:
+英语原文: a male worker with his tool box is kneeling next to two women .
+参考德语: ein arbeiter mit werkzeugkiste kniet neben zwei frauen .
+翻译德语: ein arbeiter mit seinem <unk> kniet neben zwei frauen .
+样本 95:
+英语原文: an older man is opening his arms wide and looking perplexed .
+参考德语: ein älterer mann breitet seine arme aus und blickt verblüfft .
+翻译德语: ein älterer mann öffnet seine arme und blickt über seine arme .
+样本 96:
+英语原文: a child in a white karate outfit practicing a move
+参考德语: ein kind in einem weißen karateanzug übt eine bewegung .
+翻译德语: ein kind in weißen kleidung üben einen <unk> .
+样本 97:
+英语原文: three men in same colored vests are in the outdoors .
+参考德语: drei männer in gleichfarbigen westen halten sich im freien auf .
+翻译德语: drei männer in hellen westen spielen im freien im freien .
+样本 98:
+英语原文: a woman takes a picture of a baby wearing a pink hat while a man carries her .
+参考德语: eine frau macht ein bild von einem baby mit rosa mütze , das von einem mann getragen wird .
+翻译德语: eine frau macht ein foto von einem rosa hut , während ein mann mit einem rosa hut trägt .
+样本 99:
+英语原文: a group of mostly asian children sitting at cubicles in blue chairs .
+参考德语: eine gruppe überwiegend asiatischer kinder sitzt in arbeitsnischen verteilt auf blauen stühlen .
+翻译德语: eine gruppe asiatischer kinder sitzen auf einem blauen hemden , sitzen auf stühlen im freien .
+样本 100:
+英语原文: a young boy in a soccer uniform crying into his palms .
+参考德语: ein kleiner junge im fußballdress hält die hände vors gesicht und weint .
+翻译德语: ein junge in einem blauen trikot weint in seinem feld .

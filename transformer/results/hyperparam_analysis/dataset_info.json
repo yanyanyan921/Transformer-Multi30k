@@ -1,0 +1,7 @@
+{
+  "source_vocab_size": 5893,
+  "target_vocab_size": 7853,
+  "train_samples": 29000,
+  "valid_samples": 1014,
+  "test_samples": 1000
+}

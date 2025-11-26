@@ -1,0 +1,75 @@
+{
+  "base_config": {
+    "d_model": 512,
+    "num_heads": 8,
+    "d_ff": 2048,
+    "dropout": 0.1,
+    "max_len": 100,
+    "batch_size": 128,
+    "total_epoch": 20,
+    "weight_decay": 0.001,
+    "adam_eps": 1e-09,
+    "clip": 2.0,
+    "min_freq": 2,
+    "factor": 0.5,
+    "patience": 3,
+    "ext": [
+      ".en",
+      ".de"
+    ],
+    "init_token": "<sos>",
+    "eos_token": "<eos>",
+    "device": "cuda"
+  },
+  "experiments": {
+    "layer_analysis": {
+      "description": "\u4e0d\u540c\u5c42\u6570\u5bf9\u6bd4",
+      "params": {
+        "num_layers": [
+          2,
+          4,
+          6,
+          8
+        ],
+        "init_lr": 0.0005
+      }
+    },
+    "lr_analysis": {
+      "description": "\u4e0d\u540c\u5b66\u4e60\u7387\u5bf9\u6bd4",
+      "params": {
+        "init_lr": [
+          0.0001,
+          0.0005,
+          0.001,
+          0.005
+        ],
+        "num_layers": 6
+      }
+    },
+    "model_size_analysis": {
+      "description": "\u4e0d\u540c\u6a21\u578b\u5927\u5c0f\u5bf9\u6bd4",
+      "params": {
+        "d_model": [
+          256,
+          512,
+          768
+        ],
+        "num_layers": 6,
+        "init_lr": 0.0005
+      }
+    },
+    "head_analysis": {
+      "description": "\u4e0d\u540c\u6ce8\u610f\u529b\u5934\u6570\u5bf9\u6bd4",
+      "params": {
+        "num_heads": [
+          4,
+          8,
+          12,
+          16
+        ],
+        "num_layers": 6,
+        "init_lr": 0.0005
+      }
+    }
+  }
+}
